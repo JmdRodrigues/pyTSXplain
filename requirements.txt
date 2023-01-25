@@ -1,0 +1,10 @@
+pycatch22
+numpy
+matplotlib
+streamlit
+scipy
+sklearn
+tsfel
+pyts
+seaborn
+shap
